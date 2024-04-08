@@ -164,6 +164,7 @@ OUTPUT WAVEFORM
 
 
 RESULT
+
 Thus the simulation and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE is verified successfully.
 
 
