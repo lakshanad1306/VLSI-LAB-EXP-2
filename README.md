@@ -4,8 +4,8 @@ AIM:
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
 APPARATUS REQUIRED:
-Xilinx 14.7
-Spartan6 FPGA
+
+                  VIVADO 2023.1
 
 **LOGIC DIAGRAM**
 
@@ -149,17 +149,35 @@ OUTPUT WAVEFORM
 # Multiplexer
 ![Screenshot 2024-04-08 134842](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/696c86c7-292d-43ed-b2b5-afebc1482c4c)
 
+
+![Screenshot 2024-05-16 203517](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/689c8134-639a-4849-ae5c-e7b7c8bf08be)
+
+
+
 # Magnitude Comparator
 ![Screenshot 2024-04-08 134925](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/89f75878-c4a2-44f0-a7af-6d1157d4faa8)
+
+
+![Screenshot 2024-05-16 203534](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/f73b8eb4-ad26-4c63-8a79-8d657cd2554b)
 
 # Demultiplier
 ![Screenshot 2024-04-08 134944](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/8693dde4-53a2-48f2-9690-f30e90e7d8fb)
 
+
+![Screenshot 2024-05-16 203431](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/8a6582b4-3dc1-45fa-9c9d-0858191f6ccf)
+
 # 8 to 3 Encoder
 ![Screenshot 2024-04-08 135006](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/9f691e70-312c-4673-bb62-d830c5b717bd)
 
+<img width="571" alt="image" src="https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/601d8071-90c2-4403-852a-ac17d6d1cddd">
+
 # 3 to 8 Decoder
 ![Screenshot 2024-04-08 135025](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/db86bde2-719f-4b6e-9537-a032b9fd525c)
+
+
+![Screenshot 2024-05-16 203404](https://github.com/lakshanad1306/VLSI-LAB-EXP-2/assets/161121355/46bf42fd-7c80-4a75-aa2e-d2b0881242fe)
+
+
 
 
 
